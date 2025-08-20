@@ -1,0 +1,36 @@
+Summary,Value
+Total primes considered,1000000
+Total primes produced by offsets,946543
+Unique primes produced by offsets,801493
+
+Exact success count distribution,,
+Offsets Succeeded,Count,Percentage
+0,352946,35.2946%
+1,407786,40.7786%
+2,186686,18.6686%
+3,45466,4.5466%
+4,6613,0.6613%
+5,483,0.0483%
+6,20,0.0020%
+7,0,0.0000%
+
+Cumulative success count distribution,,
+Offsets Succeeded,Count,Percentage
+at least 7,0,0.0000%
+at least 6,20,0.0020%
+at least 5,503,0.0503%
+at least 4,7116,0.7116%
+at least 3,52582,5.2582%
+at least 2,239268,23.9268%
+at least 1,647054,64.7054%
+at least 0,1000000,100.0000%
+
+Individual offset success counts,,
+Offset,Successes,Percentage
+2p+-9,164067,16.4067%
+2p+-5,109637,10.9637%
+2p+-3,163897,16.3897%
+2p+1,82237,8.2237%
+2p+3,164061,16.4061%
+2p+7,98463,9.8463%
+2p+9,164181,16.4181%

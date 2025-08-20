@@ -1,0 +1,36 @@
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Success Rate (%)
+ending_1,2p -9,249934,54815,195119,21.9318
+ending_1,2p -5,249934,27293,222641,10.9201
+ending_1,2p -3,249934,54740,195194,21.9018
+ending_1,2p + 1,249934,27412,222522,10.9677
+ending_1,2p + 3,249934,0,249934,0.0000
+ending_1,2p + 7,249934,32838,217096,13.1387
+ending_1,2p + 9,249934,54844,195090,21.9434
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Success Rate (%)
+ending_3,2p -9,250110,54679,195431,21.8620
+ending_3,2p -5,250110,27276,222834,10.9056
+ending_3,2p -3,250110,54860,195250,21.9343
+ending_3,2p + 1,250110,27550,222560,11.0152
+ending_3,2p + 3,250110,54650,195460,21.8504
+ending_3,2p + 7,250110,32854,217256,13.1358
+ending_3,2p + 9,250110,0,250110,0.0000
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Success Rate (%)
+ending_7,2p -9,250014,1,250013,0.0004
+ending_7,2p -5,250014,27405,222609,10.9614
+ending_7,2p -3,250014,54296,195718,21.7172
+ending_7,2p + 1,250014,0,250014,0.0000
+ending_7,2p + 3,250014,54649,195365,21.8584
+ending_7,2p + 7,250014,32769,217245,13.1069
+ending_7,2p + 9,250014,54800,195214,21.9188
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Success Rate (%)
+ending_9,2p -9,249940,54572,195368,21.8340
+ending_9,2p -5,249940,27662,222278,11.0675
+ending_9,2p -3,249940,0,249940,0.0000
+ending_9,2p + 1,249940,27273,222667,10.9118
+ending_9,2p + 3,249940,54760,195180,21.9093
+ending_9,2p + 7,249940,0,249940,0.0000
+ending_9,2p + 9,249940,54535,195405,21.8192

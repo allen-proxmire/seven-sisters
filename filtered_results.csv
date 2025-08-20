@@ -1,0 +1,36 @@
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Multiples of 3,Multiples of 5,Not a Multiple of 3 and/or 5,Success Rate (%)
+ending_1,2p -9,249934,54815,195119,0,0,249934,21.9318
+ending_1,2p -5,249934,27293,97801,124840,0,125094,21.8180
+ending_1,2p -3,249934,54740,195194,0,0,249934,21.9018
+ending_1,2p + 1,249934,27412,97682,124840,0,125094,21.9131
+ending_1,2p + 3,249934,0,0,0,249934,0,0.0000
+ending_1,2p + 7,249934,32838,92256,124840,0,125094,26.2507
+ending_1,2p + 9,249934,54844,195090,0,0,249934,21.9434
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Multiples of 3,Multiples of 5,Not a Multiple of 3 and/or 5,Success Rate (%)
+ending_3,2p -9,250110,54679,195430,1,0,250109,21.8621
+ending_3,2p -5,250110,27276,97790,125044,0,125066,21.8093
+ending_3,2p -3,250110,54860,195250,0,0,250110,21.9343
+ending_3,2p + 1,250110,27550,97516,125044,0,125066,22.0284
+ending_3,2p + 3,250110,54650,195459,1,0,250109,21.8505
+ending_3,2p + 7,250110,32854,92212,125044,0,125066,26.2693
+ending_3,2p + 9,250110,0,0,1,250110,0,0.0000
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Multiples of 3,Multiples of 5,Not a Multiple of 3 and/or 5,Success Rate (%)
+ending_7,2p -9,250014,1,0,0,250013,1,100.0000
+ending_7,2p -5,250014,27405,97554,125055,0,124959,21.9312
+ending_7,2p -3,250014,54296,195718,0,0,250014,21.7172
+ending_7,2p + 1,250014,0,0,125055,250014,0,0.0000
+ending_7,2p + 3,250014,54649,195365,0,0,250014,21.8584
+ending_7,2p + 7,250014,32769,92190,125055,0,124959,26.2238
+ending_7,2p + 9,250014,54800,195214,0,0,250014,21.9188
+
+Prime Ending,Offset,Total Primes,Successful Primes,Other Composites,Multiples of 3,Multiples of 5,Not a Multiple of 3 and/or 5,Success Rate (%)
+ending_9,2p -9,249940,54572,195368,0,0,249940,21.8340
+ending_9,2p -5,249940,27662,97388,124890,0,125050,22.1208
+ending_9,2p -3,249940,0,0,0,249940,0,0.0000
+ending_9,2p + 1,249940,27273,97777,124890,0,125050,21.8097
+ending_9,2p + 3,249940,54760,195180,0,0,249940,21.9093
+ending_9,2p + 7,249940,0,0,124890,249940,0,0.0000
+ending_9,2p + 9,249940,54535,195405,0,0,249940,21.8192
