@@ -20,8 +20,8 @@ Addtional findings include the dramatic increase in success rates for specific o
 
 To replicate the analysis, clone this repository and run the Python scripts in the `src/` directory.
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/allen-proxmire/seven-sisters.git
+cd seven-sisters
 
 
 ### **Author**
