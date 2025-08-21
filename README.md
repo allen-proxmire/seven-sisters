@@ -30,6 +30,10 @@ This project was conducted by Allen Proxmire.
 
 \*Unaffiliated
 
+### **Citation**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16916095.svg)](https://doi.org/10.5281/zenodo.16916095)
+
 ### **Contact**
 
 For any questions or feedback, please contact me
