@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Seven Sisters"
+version: "1.0.1"
+date-released: "2025-08-20"
+repository-code: "https://github.com/allen-proxmire/seven-sisters"
+license: "MIT"  # Assuming a common open-source license. Feel free to change this.
+
+authors:
+  - given-names: "Allen"
+    family-names: "Proxmire"
+    affiliation: "Unaffiliated"
